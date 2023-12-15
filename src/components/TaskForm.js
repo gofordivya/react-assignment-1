@@ -19,7 +19,7 @@ class TaskForm extends Component {
             placeholder="Describe it"
           ></textarea>
         </div>
-        <button type="button" className="btn btn-primary">
+        <button type="button" className="btn btn-primary mb-5">
           Add
         </button>
       </div>
